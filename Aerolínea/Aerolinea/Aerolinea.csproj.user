@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Formularios\ConfirmacionFinal_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\Contacto_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\EleccionAsientos_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\MostrarFilaHistorial_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\PantallaCheckIn_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\PantallaLogin_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\PantallaModificarUsuario_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Formularios\PantallaPrincipal_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

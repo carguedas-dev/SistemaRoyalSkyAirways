@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Contacto>
+	<informacion 
+		correo_electronico="consultas@royalskyairways.com" 
+		numero_telefonico="+506 2214-0769">
+	</informacion>
+</Contacto>
