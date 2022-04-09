@@ -1,5 +1,5 @@
 # SistemaRoyalSkyAirways
-Sistema de gestión de venta de tiquetes y Check In para la aerolínea ficticia Royal Sky Airways. Se gestiona la adquisición de tiquetes, el almacenamiento de usuarios, la selección de asientos, confirmación de compra, proceso de Check In, adicionamiento de maletas y su precio adicional según peso, y la acumulación de millas si el usuario pertenece al sistema de millas de la aerolínea. 
+Sistema de gestión de venta de tiquetes y Check In para la aerolínea ficticia Royal Sky Airways. Se gestiona la adquisición de tiquetes, el almacenamiento de usuarios, la selección de asientos, confirmación de compra, proceso de Check In, adicionamiento de maletas y su precio adicional según peso, y la acumulación de millas si el usuario pertenece al sistema de millas de la aerolínea. Sistema desarrollado con C#, utilizando WinForms.
 
 Asimismo, además del sistema principal, la carpeta "TestingAerolinea" contiene unas cuántas pruebas unitarias realizadas sobre métodos de diversas de las clases. 
 
