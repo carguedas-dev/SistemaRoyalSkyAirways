@@ -8,3 +8,5 @@ NOTA: Se adiciona una instancia de la base de datos (desarrollada en SQL SERVER)
 Video del funcionamiento: 
 
 https://user-images.githubusercontent.com/88214335/162591498-c9000679-40fa-4d3e-b329-30c01019903a.mp4
+
+Software desarrollado en conjunto con: 
